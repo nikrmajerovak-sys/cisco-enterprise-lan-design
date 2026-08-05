@@ -151,9 +151,9 @@ Planned improvements for future versions:
 
 ## Full project documentation:
 
-![Documentation](Documentation/Enterprise-LAN-Design.pdf)
+[Documentation](Documentation/Enterprise-LAN-Design.pdf)
 
-![Packet Tracer](Packet-Tracer/CyberTech-Network.pkt)
+[Packet Tracer](Packet-Tracer/CyberTech-Network.pkt)
 
 ## Author
 
